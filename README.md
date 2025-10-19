@@ -71,7 +71,7 @@ An engaging and educational web application designed to help children and Englis
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/clock-app.git
+   git clone https://github.com/bcanata/clock-app.git
    cd clock-app
    ```
 
