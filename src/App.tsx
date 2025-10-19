@@ -212,6 +212,11 @@ function App() {
             )}
           </p>
         )}
+        <p className="attribution">
+          Created with ❤️ by <strong>Buğra Canata</strong> |
+          <a href="https://github.com/bcanata/clock-app" target="_blank" rel="noopener noreferrer">GitHub</a> |
+          <a href="https://clock-app-blue.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+        </p>
       </footer>
 
       {showSettings && (

@@ -2,6 +2,12 @@
 
 An engaging and educational web application designed to help children and English-learning students master the skill of reading analog clocks. Built with React and TypeScript, this app offers multiple learning modes, interactive features, and comprehensive time expression learning.
 
+## 🌐 Live Demo
+
+**Try the app now**: https://clock-app-blue.vercel.app/
+
+Experience the interactive clock learning app directly in your browser!
+
 ## 🎯 Features
 
 ### Interactive Analog Clock
